@@ -1,0 +1,33 @@
+# Archivos temporales y configuración del sistema
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs y archivos de depuración
+*.log
+*.tmp
+debug/
+
+# Archivos de configuración personal
+config.ini
+settings.json
